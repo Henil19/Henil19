@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Henil19">
-  <img src="https://raw.githubusercontent.com/Henil19/Henil19/main/assets/hero-v2.svg" width="100%" alt="Henil Patel animated profile hero"/>
+  <img src="https://raw.githubusercontent.com/Henil19/Henil19/main/assets/hero-v3.svg" width="100%" alt="Henil Patel animated profile hero"/>
 </a>
 
 <br/>
