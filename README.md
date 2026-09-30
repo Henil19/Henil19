@@ -1,168 +1,262 @@
-
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/194473018?v=4" width="150" alt="Henil Patel" />
+<a href="https://github.com/Henil19">
+  <img src="https://raw.githubusercontent.com/Henil19/Henil19/main/assets/hero.svg" width="100%" alt="Henil Patel animated profile hero"/>
+</a>
 
-# Henil Patel
+<br/>
 
-### AI / ML Developer · Research-Oriented Builder · Computer Science Student
+<a href="https://github.com/Henil19/Cogent"><img src="https://img.shields.io/badge/FOCUS-Cogent%20%2F%20AI%20Research-8B5CF6?style=for-the-badge&labelColor=080C18" /></a>
+<a href="https://github.com/Henil19/HireLens"><img src="https://img.shields.io/badge/BUILD-AI%20Products-22D3EE?style=for-the-badge&labelColor=080C18" /></a>
+<a href="https://github.com/Henil19"><img src="https://img.shields.io/badge/MODE-Research%20%2B%20Engineering-EC4899?style=for-the-badge&labelColor=080C18" /></a>
 
-I build AI systems that go beyond demos, with a focus on retrieval, reasoning,<br/>
-trustworthy AI, developer tools, and practical software engineering.
+<br/><br/>
 
-<a href="https://github.com/Henil19"><img src="https://img.shields.io/badge/GitHub-Henil19-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+**Research → Architecture → Code → Evaluation → Iteration**
 
 </div>
 
 ---
 
-## 🧭 About Me
+## 🧬 About the builder
 
 I'm **Henil Patel**, a Computer Science & Engineering student at **Silver Oak University, Ahmedabad**, graduating in **2027**.
 
-My work sits at the intersection of **AI engineering, machine learning, information retrieval, and research-driven software development**.
+I like the part of AI where the answer is not the finish line.
 
-I enjoy taking an idea from:
+My work explores how intelligent systems can **retrieve evidence, reason over it, measure uncertainty, expose provenance, and explain why an answer should be trusted**.
 
-**research → architecture → implementation → evaluation → usable product**
+<div align="center">
 
-Rather than building isolated experiments, I try to understand the underlying problem, study existing approaches, design a system around the research gap, and validate the implementation with tests and measurable results.
+| 🔎 Retrieve | 🧠 Reason | 🛡️ Verify | 💡 Explain |
+|:---:|:---:|:---:|:---:|
+| Dense + sparse search | Query decomposition | Evidence reliability | Transparent synthesis |
+| BM25 · FAISS · RRF | DAG workflows | Trust + uncertainty | Provenance |
 
-### Current focus
+</div>
 
-- 🧠 AI / ML & intelligent systems
-- 🔎 RAG, information retrieval & evidence-grounded generation
-- 🕸️ Knowledge graphs, multi-agent systems & reasoning
-- 🛡️ Trust, provenance, explainability & hallucination detection
-- 🧪 Research-oriented experimentation and evaluation
-- 🧰 Developer tools and practical AI products
-- 🌱 Open-source contribution
+### Current interests
 
----
-
-## 🚀 Featured Work
-
-### 🧠 [Cogent](https://github.com/Henil19/Cogent)
-
-> **Research Intelligence System for grounded, auditable answers**
-
-My main research project. Cogent is designed around a **10-layer architecture** spanning query understanding, planning, knowledge acquisition, retrieval, evidence verification, reasoning, trust, explanation, presentation, and evaluation.
-
-**Architecture:**  
-Query Understanding → Planning → Knowledge Acquisition → Hybrid Retrieval → Evidence Intelligence → Reasoning → Trust → Explanation → Presentation → Evaluation
-
-**Stack:** Python · FastAPI · React · TypeScript · PostgreSQL · FAISS · BM25 · LangChain · LangGraph
-
-Cogent combines **dense + sparse retrieval, evidence verification, transparent reasoning traces, provenance, trust calibration, and explainable synthesis**.
+`RAG` · `Information Retrieval` · `Knowledge Graphs` · `Multi-Agent Systems` · `Trustworthy AI` · `Explainability` · `Evaluation` · `Developer Tools`
 
 ---
 
-### 🔍 [HireLens](https://github.com/Henil19/HireLens)
+## ⚡ The research loop
 
-> **AI-powered resume intelligence / ATS platform**
+<div align="center">
 
-A modular resume analysis system that compares resumes against job descriptions, extracts technical skills, calculates compatibility, and generates professional screening reports.
+<img src="https://raw.githubusercontent.com/Henil19/Henil19/main/assets/research-loop.svg" width="100%" alt="Animated research to product workflow"/>
 
-**Focus:** semantic matching · skill extraction · scoring · explainability · recommendations
+</div>
 
-**Stack:** Python · NLP · Machine Learning
+<details>
+<summary><b>▸ Click to open my engineering philosophy</b></summary>
 
----
+<br/>
 
-### 🧑‍💻 [CodeLens](https://github.com/Henil19/CodeLens)
+I try to move through a problem in this order:
 
-> **Research-oriented AI code assistant and multi-perspective code reviewer**
+**Understand the problem** → study the literature → identify the gap → design the architecture → implement modularly → test assumptions → evaluate with evidence → iterate.
 
-A developer-focused tool built around the idea that code review can be treated as a structured reasoning problem rather than a single AI response.
+That means I care about the uncomfortable bits too: failure cases, retrieval quality, provenance, uncertainty, reproducibility, and whether a system still makes sense when the demo lights are turned off.
 
-**Stack:** React 18 · TypeScript · custom engineering UI
-
----
-
-### ⚽ [TacticallQ](https://github.com/Henil19/TacticallQ)
-
-> **AI-powered football analytics**
-
-A football analytics platform for analysing match data, discovering patterns, and generating intelligent insights.
+</details>
 
 ---
 
-### 🎬 [Cineva](https://github.com/Henil19/Cineva)
+# 🚀 Featured builds
 
-> **Full-stack movie discovery & ticket booking platform**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A complete web application covering movie discovery and ticket booking.
+### 🧠 Cogent
 
-**Stack:** React · Node.js · Express · MongoDB
+**Research Intelligence System**
+
+A 10-layer architecture for grounded, auditable research answers.
+
+`RAG` `FAISS` `BM25` `RRF` `Reasoning` `Trust` `Provenance`
+
+**Pipeline**
+
+Query → Plan → Acquire → Retrieve → Verify → Reason → Trust → Explain → Present → Evaluate
+
+<a href="https://github.com/Henil19/Cogent">↗ Explore Cogent</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 HireLens
+
+**AI Resume Intelligence**
+
+A modular ATS system that extracts skills, compares resumes with job descriptions, scores compatibility, and produces screening insights.
+
+`Python` `NLP` `ML` `Scoring` `Explainability`
+
+<a href="https://github.com/Henil19/HireLens">↗ Explore HireLens</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍💻 CodeLens
+
+**AI Code Review Research Tool**
+
+A developer-oriented assistant that treats code review as a structured, multi-perspective reasoning problem.
+
+`React` `TypeScript` `AI` `Developer Tools`
+
+<a href="https://github.com/Henil19/CodeLens">↗ Explore CodeLens</a>
+
+</td>
+<td width="50%" valign="top">
+
+### ⚽ TacticallQ
+
+**Football Intelligence**
+
+An analytics platform for exploring match data, discovering patterns, and generating intelligent tactical insights.
+
+`Analytics` `AI` `Football` `Data`
+
+<a href="https://github.com/Henil19/TacticallQ">↗ Explore TacticallQ</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Cineva
+
+**Movie Discovery + Booking**
+
+A full-stack platform covering discovery, authentication, seat selection, and ticket booking.
+
+`React` `Node.js` `Express` `MongoDB`
+
+<a href="https://github.com/Henil19/Cineva">↗ Explore Cineva</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🙂 FER Emotion Recognition
+
+**Computer Vision**
+
+A reproducible FER-2013 pipeline with training, evaluation, image prediction, webcam inference, and performance analysis.
+
+`TensorFlow` `Keras` `OpenCV` `CNN`
+
+<a href="https://github.com/Henil19/FER-Emotion-Recognition">↗ Explore FER</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🙂 [FER-Emotion-Recognition](https://github.com/Henil19/FER-Emotion-Recognition)
+## 🧪 Research map
 
-> **CNN-based facial emotion recognition**
+<details open>
+<summary><b>🔎 Retrieval Intelligence</b></summary>
 
-A reproducible computer-vision project using the **FER-2013** dataset, including training, evaluation, image prediction, webcam inference, confusion-matrix analysis, and classification reporting.
+Dense retrieval · Sparse retrieval / BM25 · Hybrid retrieval · Reciprocal Rank Fusion · Reranking · Evidence selection · Retrieval evaluation
 
-**Stack:** Python · TensorFlow · Keras · OpenCV
+</details>
 
----
+<details>
+<summary><b>🧠 Reasoning Systems</b></summary>
 
-## 🧪 Research Interests
+Query decomposition · DAG-based planning · Multi-step reasoning · Knowledge graphs · Multi-agent workflows · Transparent reasoning traces
 
-I'm particularly interested in the parts of AI where **getting an answer is not enough**.
+</details>
 
-### 🔎 Retrieval
-Dense retrieval · Sparse retrieval / BM25 · Hybrid retrieval · Reranking · Evidence selection
+<details>
+<summary><b>🛡️ Trustworthy AI</b></summary>
 
-### 🧠 Reasoning
-Query decomposition · DAG-based reasoning · Multi-step synthesis · Knowledge graphs · Multi-agent systems
-
-### 🛡️ Trustworthy AI
 Source credibility · Evidence reliability · Provenance · Uncertainty estimation · Confidence calibration · Hallucination detection · Explainability
 
-### 📊 Evaluation
-Retrieval evaluation · Faithfulness · Groundedness · Evidence coverage · End-to-end evaluation · Human feedback
+</details>
+
+<details>
+<summary><b>📊 Evaluation</b></summary>
+
+Faithfulness · Groundedness · Evidence coverage · Retrieval quality · End-to-end evaluation · Human feedback · Failure analysis
+
+</details>
 
 ---
 
-## 🛠️ Technology
+## 🧰 Technology constellation
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,sql" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,sql" alt="Programming languages"/>
 
 ### AI / ML
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and ML" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and machine learning"/>
 
-Pandas · NumPy · Matplotlib · Scikit-learn · Keras · OpenCV
+`Pandas` · `NumPy` · `Matplotlib` · `Scikit-learn` · `Keras` · `OpenCV`
 
-### Backend & Data
+### Backend / Data
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql" alt="Backend and databases" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,mongodb,mysql" alt="Backend and databases"/>
 
-### Cloud & Tools
+### Cloud / Engineering
 
-<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode,linux" alt="Cloud and engineering tools"/>
 
 </div>
 
 ---
 
-## 🎓 Education
+## 📈 GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henil19&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Pulse" width="100%" alt="GitHub contribution activity graph"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Henil19&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="170" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henil19&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Henil19&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+</div>
+
+---
+
+## 🏆 Open-source mindset
+
+> **Don't contribute just to collect green squares. Understand the project first, then contribute something useful.**
+
+My workflow:
+
+`Discover` → `Study` → `Understand` → `Validate` → `Implement` → `Test` → `Review` → `PR`
+
+I'm especially interested in contributing to **AI, Python, developer tooling, retrieval systems, and research-oriented open source**.
+
+---
+
+## 🎓 Education & experience
 
 **B.Tech — Computer Science & Engineering**  
 Silver Oak University · Ahmedabad, Gujarat  
 **Expected graduation: 2027**
 
----
-
-## 💼 Experience & Learning
-
-### AI / ML Internships
+### AI / ML experience
 
 - **Coding Samurai** · AI Internship
   - Facial Expression Recognition
@@ -171,67 +265,40 @@ Silver Oak University · Ahmedabad, Gujarat
   - Data-analysis work
   - Group lead experience
 
-### Certifications & Learning
+### Certifications
 
-AWS Academy · IBM SkillsBuild · Google Cloud Skills Boost · Canva Design School
-
----
-
-## 🌱 Open Source
-
-I'm building my open-source contribution journey around a simple principle:
-
-> **Don't contribute just to collect green squares. Understand the project first, then contribute something useful.**
-
-My contribution workflow:
-
-**Discover active project → Study codebase → Understand issue → Validate opportunity → Implement → Test → Review → Submit PR**
-
-I'm especially interested in **AI, developer tooling, Python, retrieval systems, and research-oriented open source**.
+`AWS Academy` · `IBM SkillsBuild` · `Google Cloud Skills Boost` · `Canva Design School`
 
 ---
 
-## 📈 GitHub
+## 🧩 Things I care about
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Henil19&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" alt="Henil's GitHub stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henil19&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Henil19&theme=transparent&hide_border=true" alt="GitHub streak" />
+**Build systems, not just notebooks.**  
+**Read the research before reinventing the wheel.**  
+**Make AI outputs traceable.**  
+**Test assumptions instead of trusting demos.**  
+**Keep architecture modular enough to evolve.**  
+**Build the difficult version when it teaches something useful.**
 
 </div>
 
 ---
 
-## 🧩 A Few Things I Care About
-
-- **Build systems, not just notebooks.**
-- **Read the research before reinventing the wheel.**
-- **Make AI outputs traceable and explainable.**
-- **Test assumptions instead of trusting demos.**
-- **Keep architecture modular enough to evolve.**
-- **Learn by building things that are slightly harder than the comfortable option.**
-
----
-
-## 📫 Let's Connect
-
-If you're interested in **AI systems, research, developer tools, retrieval, trustworthy AI, or building something ambitious**, explore my repositories or connect with me.
+## 📡 Connect
 
 <div align="center">
 
-**GitHub:** [@Henil19](https://github.com/Henil19)
-
-<br/>
-
-<sub>Building at the intersection of research, engineering, and intelligent systems.</sub>
+<a href="https://github.com/Henil19"><img src="https://img.shields.io/badge/GitHub-Henil19-181717?style=for-the-badge&logo=github" /></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Henil19&style=flat-square&color=blue" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Henil19&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+<sub>Building at the intersection of research, engineering, and intelligent systems.</sub>
 
 </div>
