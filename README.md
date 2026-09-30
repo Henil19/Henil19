@@ -223,7 +223,15 @@ Faithfulness · Groundedness · Evidence coverage · Retrieval quality · End-to
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Henil19&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Pulse" width="100%" alt="GitHub contribution activity graph"/>
+<a href="https://github.com/Henil19">
+  <img src="https://img.shields.io/github/commit-activity/y/Henil19/Henil19?style=for-the-badge&label=COMMITS%20THIS%20YEAR&color=8B5CF6&labelColor=080C18" alt="Commits this year"/>
+</a>
+<a href="https://github.com/Henil19">
+  <img src="https://img.shields.io/github/last-commit/Henil19/Henil19?style=for-the-badge&label=LAST%20COMMIT&color=22D3EE&labelColor=080C18" alt="Last commit"/>
+</a>
+<a href="https://github.com/Henil19?tab=repositories">
+  <img src="https://img.shields.io/github/repos/Henil19?style=for-the-badge&label=PUBLIC%20REPOS&color=EC4899&labelColor=080C18" alt="Public repositories"/>
+</a>
 
 <br/>
 
@@ -295,7 +303,7 @@ Silver Oak University · Ahmedabad, Gujarat
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Henil19&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://img.shields.io/github/followers/Henil19?style=for-the-badge&label=FOLLOWERS&color=8B5CF6&labelColor=080C18" alt="GitHub followers"/>
 
 <br/><br/>
 
