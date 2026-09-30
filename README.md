@@ -230,7 +230,7 @@ Faithfulness · Groundedness · Evidence coverage · Retrieval quality · End-to
   <img src="https://img.shields.io/github/last-commit/Henil19/Henil19?style=for-the-badge&label=LAST%20COMMIT&color=22D3EE&labelColor=080C18" alt="Last commit"/>
 </a>
 <a href="https://github.com/Henil19?tab=repositories">
-  <img src="https://img.shields.io/github/repos/Henil19?style=for-the-badge&label=PUBLIC%20REPOS&color=EC4899&labelColor=080C18" alt="Public repositories"/>
+  <img src="https://img.shields.io/github/public-repos/Henil19?style=for-the-badge&label=PUBLIC%20REPOS&color=EC4899&labelColor=080C18" alt="Public repositories"/>
 </a>
 
 <br/>
