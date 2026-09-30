@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">Research to product loop</title>
+  <desc id="desc">Animated pipeline showing research, architecture, implementation, evaluation and iteration.</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop stop-color="#22D3EE"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="230" rx="28" fill="#080C18" stroke="#25304A"/>
+  <text x="50" y="42" fill="#94A3B8" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3">HOW I BUILD</text>
+  <path d="M120 125 H1080" stroke="#1E293B" stroke-width="5"/>
+  <path d="M120 125 H1080" stroke="url(#g)" stroke-width="3" stroke-dasharray="10 22">
+    <animate attributeName="stroke-dashoffset" from="0" to="-64" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+    <g><circle cx="150" cy="125" r="35" fill="#0E1728" stroke="#22D3EE" stroke-width="2"/><text x="150" y="121" fill="#67E8F9" font-size="13">RESEARCH</text><text x="150" y="141" fill="#64748B" font-size="10">papers · gap</text></g>
+    <g><circle cx="375" cy="125" r="35" fill="#0E1728" stroke="#38BDF8" stroke-width="2"/><text x="375" y="121" fill="#7DD3FC" font-size="13">DESIGN</text><text x="375" y="141" fill="#64748B" font-size="10">architecture</text></g>
+    <g><circle cx="600" cy="125" r="35" fill="#0E1728" stroke="#8B5CF6" stroke-width="2"/><text x="600" y="121" fill="#C4B5FD" font-size="13">BUILD</text><text x="600" y="141" fill="#64748B" font-size="10">systems · code</text></g>
+    <g><circle cx="825" cy="125" r="35" fill="#0E1728" stroke="#D946EF" stroke-width="2"/><text x="825" y="121" fill="#F0ABFC" font-size="13">EVALUATE</text><text x="825" y="141" fill="#64748B" font-size="10">tests · metrics</text></g>
+    <g><circle cx="1050" cy="125" r="35" fill="#0E1728" stroke="#EC4899" stroke-width="2"/><text x="1050" y="121" fill="#F9A8D4" font-size="13">ITERATE</text><text x="1050" y="141" fill="#64748B" font-size="10">feedback · refine</text></g>
+  </g>
+  <circle cx="150" cy="125" r="43" fill="none" stroke="#22D3EE" stroke-opacity=".15">
+    <animate attributeName="r" values="40;55;40" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".5;0;.5" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>
